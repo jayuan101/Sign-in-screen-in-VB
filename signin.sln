@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "signin", "signin\signin.vbproj", "{FFD75A99-7041-4B24-93F5-1C7B80E4E550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD75A99-7041-4B24-93F5-1C7B80E4E550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD75A99-7041-4B24-93F5-1C7B80E4E550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD75A99-7041-4B24-93F5-1C7B80E4E550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD75A99-7041-4B24-93F5-1C7B80E4E550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D97C03-8D53-4191-BD33-619BDA9A8437}
+	EndGlobalSection
+EndGlobal
