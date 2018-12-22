@@ -1,7 +1,7 @@
 ﻿Imports System.Data.OleDb
 Imports System.Data.SqlClient
 Imports System.Data
-Public Class Form4
+Public Class Form3
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Dim connection As New SqlClient.SqlConnection
